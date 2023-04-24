@@ -2,7 +2,11 @@
 
 ## Supported Versions
 
+For Minecraft Mods:
 We will support security updates on all Minecraft versions for which the mod is available.
+
+For all other projects:
+We will support security updates on minor versions.
 
 ## Reporting a Vulnerability
 
